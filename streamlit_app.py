@@ -109,10 +109,10 @@ st.markdown("""Pour le moment, l'accès à l'atelier est réservé aux résident
 st.markdown("""**Localisation :**""")
 
 col9, col10 = st.columns(2)
-local_ext_path = os.path.join(img_path, 'local_ext.jpg')
+local_ext_path = os.path.join(img_path, 'local_ext3.jpg')
 col9.image(local_ext_path, output_format = "JPEG")
 
-map_path = os.path.join(img_path, 'carte_ramassier2.jpg')
+map_path = os.path.join(img_path, 'carte_ramassier3.jpg')
 col10.image(map_path, output_format = "JPEG")
 
 st.markdown("""
