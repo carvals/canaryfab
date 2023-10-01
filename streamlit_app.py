@@ -116,8 +116,8 @@ st.markdown("""
 * 4 places voiture + parking vélo 
 * proche commerces, restaurants, salles de sport """)
 
-st.markdown("""## Ouverture prévue le 16 Novembre 2023""")
-st.markdown("""## Informations et réservations :
+st.markdown("""### Ouverture prévue le 16 Novembre 2023""")
+st.markdown("""### Informations et réservations :
 * canaryfab@otahy.com
 * 06 52 66 51 toto""")
 
