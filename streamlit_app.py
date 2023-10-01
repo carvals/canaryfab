@@ -39,7 +39,7 @@ Et pourquoi pas faire des projets ensemble.
 """)
 
 st.markdown("""Notre vision est qu'un data engineer ou architecte de données dans l'industrie doit être entouré de machines.
-C'est pourquoi ce site unique accueillera un capacité de fabrication.""")
+C'est pourquoi ce site unique accueillera une capacité de fabrication accessible aux résidents.  """)
 
 st.markdown("""Pour cela nous proposons:""")
 
