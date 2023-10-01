@@ -115,7 +115,7 @@ st.markdown("""## Information et réservation:
 * 06 52 66 51 85""")
 
 #add orphan data image
-st.image(os.path.join(img_path, 'orphan_data.png'),output_format = "PNG")
+#st.image(os.path.join(img_path, 'orphan_data.png'),output_format = "PNG")
 
 
 
