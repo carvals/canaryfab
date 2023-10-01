@@ -31,9 +31,9 @@ col2.markdown("""<br>""", unsafe_allow_html=True)
 col2.markdown("""
 #### Ouverture du premier local toulousain dédié au data engineering industriel, l'électronique et la fabrication.""")
 
-st.markdown("""Afin d'accompagner sa croissance, la société Otahy crée un nouvel établissement à Toulouse Ouest. 
-Son ambition est de rassembler une communauté d'indépendants et de petites structures autour des activités de data engineering indutriel
-ainsi que de prototypage.
+st.markdown("""Afin d'accompagner sa croissance, la société Otahy crée un établissement inédit à Toulouse Ouest. 
+Son ambition est de rassembler une communauté d'indépendants et de petites structures autour des activités de data engineering industriel
+ainsi que de prototypage.<br>
 L'objectif est de pouvoir échanger, s'entraider, mutualiser compétences et outils.
 Et pouquoi pas faire des projets ensemble.
 """)
