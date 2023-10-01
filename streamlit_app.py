@@ -98,9 +98,9 @@ st.markdown("""Nous sommes ouverts à l'ajout de nouveaux équipements en foncti
 
 st.markdown("""## Conditions d'accès""")
 
-st.markdown("""**Possibilité de location flexible:**
+st.markdown("""**Possibilité de location flexible :**
 * un poste de travail seul avec un minimum de 3 mois avec ou sans accès à l'atelier
-* un bureau privatif avec un minimum de 6 mois avec ou sans accès à l'atelier
+* un bureau privatif avec un minimum de 3 mois avec ou sans accès à l'atelier
 * Mise à disposition d'une surface dédiée dans l'atelier""")
 
 st.markdown("""Pour le moment, l'accès à l'atelier est réservé aux résidents.""")
@@ -108,7 +108,7 @@ st.markdown("""Pour le moment, l'accès à l'atelier est réservé aux résident
 
 
 
-st.markdown("""**Localisation:**""")
+st.markdown("""**Localisation :**""")
 st.markdown("""
 * Colomiers, chemin de l'Armurié
 * proche gare des Ramassiers
