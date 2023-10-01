@@ -52,7 +52,7 @@ st.markdown("""## Un plateau de 90m2 dédié au data engineering""")
 
 col3, col4 = st.columns(2)
 #make few bullet points
-col3.markdown("""* un open space de 30m2 pour 6 postes de travail + casier individuel 
+col3.markdown("""* un open space de 30m2 pour 6 postes de travail ergonomiques + casier individuel 
 * 2 bureaux privatifs de 12 et 15m2
 * 1 salle de réunion
 """)
@@ -66,7 +66,7 @@ col4.markdown("""* imprimante NB
 local_path = os.path.join(img_path, 'local_etage.png')
 st.image(local_path, width=400)
 
-st.markdown("""## Un espace détente de 25m2""")
+st.markdown("""## Un espace détente de 25m2 intérieur""")
 col5, col6 = st.columns(2)
 
 col5.markdown("""* espace cuisine
@@ -113,7 +113,8 @@ st.markdown("""
 * Colomiers, chemin de l'Armurié
 * proche gare des Ramassiers
 * Bus 63 / L3 / 21 / 25
-* 4 places voiture + parking vélo 
+* 4 places voiture + parking vélo
+* Espace détente extérieur 
 * proche commerces, restaurants, salles de sport """)
 
 st.markdown("""### Ouverture prévue le 16 Novembre 2023""")
