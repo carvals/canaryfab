@@ -69,11 +69,9 @@ st.image(local_path, width=400)
 st.markdown("""## Un espace détente de 25m2 intérieur""")
 col5, col6 = st.columns(2)
 
-col5.markdown("""* espace cuisine
-* Réfrigérateur""")
+col5.markdown("""* espace cuisine""")
 
-col6.markdown("""* PS4 avec casque audio
-* Coussins """)
+col6.markdown("""* PS4""")
 
 st.markdown("""## Un atelier électronique et prototypage de 90m2""")
 col7, col8 = st.columns(2)
