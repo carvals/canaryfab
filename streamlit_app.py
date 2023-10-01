@@ -35,7 +35,7 @@ st.markdown("""Afin d'accompagner sa croissance, la société Otahy crée un ét
 Son ambition est de rassembler une communauté d'indépendants et de petites structures autour des activités de data engineering industriel
 ainsi que de prototypage.  
 L'objectif est de pouvoir échanger, s'entraider, mutualiser compétences et outils...
-Et pourquoi pas faire des projets ensemble.
+Et pourquoi pas, faire des projets ensemble.
 """)
 
 st.markdown("""Notre vision est qu'un data engineer ou architecte de données dans l'industrie doit être entouré de machines.
@@ -75,7 +75,7 @@ col5.markdown("""* espace cuisine
 col6.markdown("""* PS4 avec casque audio
 * Coussins """)
 
-st.markdown("""## uUn atelier électronique et prototypage de 90m2""")
+st.markdown("""## Un atelier électronique et prototypage de 90m2""")
 col7, col8 = st.columns(2)
 
 col7.markdown(""" 
