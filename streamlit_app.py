@@ -20,7 +20,7 @@ col1, col2 = st.columns(2)
 #in col2 put some text
 col2.markdown("""<br>""", unsafe_allow_html=True)
 col2.markdown("""
-#### Ouverture du premier local toulousain dédié au data engineering, à l'électronique et la fabrication.""")
+#### Ouverture du premier local toulousain dédié au data engineering industriel, à l'électronique et la fabrication.""")
 
 st.markdown("""Afin d'accompagner sa croissance. La société Otahy crée un nouvel établissement à Toulouse Ouest 
 afin d'accomapgner ses nouvelles activités de data engineering mais également avec l'ambition de rassembler
