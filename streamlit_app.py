@@ -48,11 +48,11 @@ canary_path = os.path.join(img_path, 'canary_solo_200.png')
 col1.image(canary_path, output_format = "PNG")
 #create a title and sub-title for the app
 
-st.markdown("""## Un plateau d'environ 90m2 dédié au data engineering""")
+st.markdown("""## Un plateau de 90m2 dédié au data engineering""")
 
 col3, col4 = st.columns(2)
 #make few bullet points
-col3.markdown("""* 6 postes de travail 120x80 + casier individuel dans un open space de 30m2
+col3.markdown("""* un open space de 30m2 pour 6 postes de travail + casier individuel 
 * 2 bureaux privatifs de 12 et 15m2
 * 1 salle de réunion
 """)
@@ -66,16 +66,14 @@ col4.markdown("""* imprimante NB
 local_path = os.path.join(img_path, 'local_etage.png')
 st.image(local_path, width=400)
 
-st.markdown("""## un espace détente d'environ 25m2""")
+st.markdown("""## un espace détente de 25m2""")
 col5, col6 = st.columns(2)
 
-col5.markdown("""* Thé, café, eau
-* Micro-onde
+col5.markdown("""* espace cuisine
 * Réfrigérateur""")
 
 col6.markdown("""* PS4 avec casque audio
-* Table et chaises
-* Cousin pour visio""")
+* Coussins """)
 
 st.markdown("""## un atelier électronique et prototypage d'environ 90m2""")
 col7, col8 = st.columns(2)
