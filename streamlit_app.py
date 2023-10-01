@@ -110,10 +110,10 @@ st.markdown("""**Localisation :**""")
 
 col9, col10 = st.columns(2)
 local_ext_path = os.path.join(img_path, 'local_ext.jpg')
-col9.image(local_ext_path, output_format = "JPG")
+col9.image(local_ext_path, output_format = "JPEG")
 
-map_path = os.path.join(img_path, 'carte_ramassier.png')
-col10.image(map_path, output_format = "PNG")
+map_path = os.path.join(img_path, 'carte_ramassier2.jpg')
+col10.image(map_path, output_format = "JPEG")
 
 st.markdown("""
 * Colomiers, chemin de l'Armurié
