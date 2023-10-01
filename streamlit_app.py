@@ -34,12 +34,12 @@ col2.markdown("""
 st.markdown("""Afin d'accompagner sa croissance, la société Otahy crée un établissement inédit à Toulouse Ouest. 
 Son ambition est de rassembler une communauté d'indépendants et de petites structures autour des activités de data engineering industriel
 ainsi que de prototypage.  
-L'objectif est de pouvoir échanger, s'entraider, mutualiser compétences et outils.
-Et pouquoi pas faire des projets ensemble.
+L'objectif est de pouvoir échanger, s'entraider, mutualiser compétences et outils...
+Et pourquoi pas faire des projets ensemble.
 """)
 
-st.markdown("""Notre vision est qu'un bon data engineer ou architecte de données dans l'industrie doit être entouré de machines.
-C'est pourquoi nous avons également apporter une capacité de fabrication à ce site unique.""")
+st.markdown("""Notre vision est qu'un data engineer ou architecte de données dans l'industrie doit être entouré de machines.
+C'est pourquoi ce site unique accueillera un capacité de fabrication.""")
 
 st.markdown("""Pour cela nous proposons:""")
 
