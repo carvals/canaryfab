@@ -107,6 +107,14 @@ st.markdown("""Pour le moment, l'accès à l'atelier est réservé aux résident
 
 
 st.markdown("""**Localisation :**""")
+
+col9, col10 = st.columns(2)
+local_ext_path = os.path.join(img_path, 'local_ext.png')
+col9.image(local_ext_path, output_format = "PNG")
+
+map_path = os.path.join(img_path, 'carte_ramassiers.png')
+col10.image(map_path, output_format = "PNG")
+
 st.markdown("""
 * Colomiers, chemin de l'Armurié
 * proche gare des Ramassiers
@@ -118,7 +126,7 @@ st.markdown("""
 st.markdown("""### Ouverture prévue le 16 Novembre 2023""")
 st.markdown("""### Informations et réservations :
 * canaryfab@otahy.com
-* 06 52 66 51 toto""")
+* 07 69 76 32 14""")
 
 #add orphan data image
 #st.image(os.path.join(img_path, 'orphan_data.png'),output_format = "PNG")
