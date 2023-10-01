@@ -66,7 +66,7 @@ col4.markdown("""* imprimante NB
 local_path = os.path.join(img_path, 'local_etage.png')
 st.image(local_path, width=400)
 
-st.markdown("""## un espace détente de 25m2""")
+st.markdown("""## Un espace détente de 25m2""")
 col5, col6 = st.columns(2)
 
 col5.markdown("""* espace cuisine
@@ -75,11 +75,11 @@ col5.markdown("""* espace cuisine
 col6.markdown("""* PS4 avec casque audio
 * Coussins """)
 
-st.markdown("""## un atelier électronique et prototypage d'environ 90m2""")
+st.markdown("""## uUn atelier électronique et prototypage de 90m2""")
 col7, col8 = st.columns(2)
 
 col7.markdown(""" 
-Électronique:
+Électronique :
 * Pick N Place automatique
 * Pick N Place semi-automatique
 * Four de refusion
@@ -87,37 +87,37 @@ col7.markdown("""
 * Station de soudure""")
 
 col8.markdown(""" 
-Construction et Découpe:
+Construction et découpe :
 * Imprimante 3D
-* Decoupe laser 40W
+* Découpe laser 40W
 * Scie sur table 
 * Compresseur
 * Divers outils""")
 
-st.markdown("""Nous sommes ouvert à l'ajout de nouveaux équipements en fonction des besoins de la communauté.""")
+st.markdown("""Nous sommes ouverts à l'ajout de nouveaux équipements en fonction des besoins de la communauté.""")
 
 st.markdown("""## Conditions d'accès""")
 
 st.markdown("""**Possibilité de location flexible:**
-* un poste de travail seul avec un minimum de 3 mois avec ou sans accès dédier à l'atelier
-* un bureau privatif avec un minimum de 6 mois avec ou sans accès dédier à l'atelier
+* un poste de travail seul avec un minimum de 3 mois avec ou sans accès à l'atelier
+* un bureau privatif avec un minimum de 6 mois avec ou sans accès à l'atelier
 * Mise à disposition d'une surface dédiée dans l'atelier""")
 
-st.markdown("""Pour le moment, l'accès est réservé aux résidents.""")
+st.markdown("""Pour le moment, l'accès à l'atelier est réservé aux résidents.""")
 
 
 
 
 st.markdown("""**Localisation:**""")
 st.markdown("""
-* Ramassiers, chemin de l'armurié
+* Colomiers, chemin de l'Armurié
 * proche gare des Ramassiers
 * Bus 63 / L3 / 21 / 25
 * 4 places voiture + parking vélo 
-* proche commerces, restaurants, salle de sport """)
+* proche commerces, restaurants, salles de sport """)
 
 st.markdown("""## Ouverture prévue le 16 Novembre 2023""")
-st.markdown("""## Information et réservation:
+st.markdown("""## Informations et réservations :
 * canaryfab@otahy.com
 * 06 52 66 51 toto""")
 
