@@ -112,7 +112,7 @@ st.markdown("""
 st.markdown("""## Ouverture prévue le 16 Novembre 2023""")
 st.markdown("""## Information et réservation:
 * canaryfab@otahy.com
-* 06 52 66 51 99""")
+* 06 52 66 51 toto""")
 
 #add orphan data image
 #st.image(os.path.join(img_path, 'orphan_data.png'),output_format = "PNG")
