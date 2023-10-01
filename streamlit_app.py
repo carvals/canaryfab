@@ -112,7 +112,7 @@ col9, col10 = st.columns(2)
 local_ext_path = os.path.join(img_path, 'local_ext.png')
 col9.image(local_ext_path, output_format = "PNG")
 
-map_path = os.path.join(img_path, 'carte_ramassiers.png')
+map_path = os.path.join(img_path, 'carte_ramassier.png')
 col10.image(map_path, output_format = "PNG")
 
 st.markdown("""
