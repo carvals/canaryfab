@@ -116,7 +116,7 @@ map_path = os.path.join(img_path, 'carte_ramassier3.jpg')
 col10.image(map_path, output_format = "JPEG")
 
 st.markdown("""
-* Colomiers, chemin de l'Armurié
+* [Chemin de l'Armurié, Colomiers](https://www.google.com/maps/place/Chemin+de+l'Armurié,+31770+Colomiers/)
 * proche gare des Ramassiers
 * Bus  L3 / 21 / 25 / 32 / 63
 * Piste cyclable arrive devant le local
