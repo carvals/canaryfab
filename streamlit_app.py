@@ -118,15 +118,16 @@ col10.image(map_path, output_format = "JPEG")
 st.markdown("""
 * Colomiers, chemin de l'Armurié
 * proche gare des Ramassiers
-* Bus 63 / L3 / 21 / 25
+* Bus  L3 / 21 / 25 / 32 / 63
+* Piste cyclable arrive devant le local
 * 4 places voiture + parking vélo
 * Espace détente extérieur 
 * proche commerces, restaurants, salles de sport """)
 
 st.markdown("""### Ouverture prévue le 16 Novembre 2023""")
 st.markdown("""### Informations et réservations :
-* canaryfab@otahy.com
-* 07 69 76 32 14""")
+* [canaryfab@otahy.com](mailto:canaryfab@otahy.com)
+* [0769763214](tel:0769763214)""")
 
 #add orphan data image
 #st.image(os.path.join(img_path, 'orphan_data.png'),output_format = "PNG")
