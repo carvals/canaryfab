@@ -63,8 +63,8 @@ col4.markdown("""* imprimante NB
 * Fibre optique / wifi""")
 
 #image of local etage
-local_path = os.path.join(img_path, 'local_etage.png')
-st.image(local_path, width=400)
+local_path = os.path.join(img_path, 'salle_etage.jpg')
+st.image(local_path,output_format = "JPEG")
 
 st.markdown("""## Un espace détente de 25m2 intérieur""")
 col5, col6 = st.columns(2)
