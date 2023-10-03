@@ -121,7 +121,7 @@ st.markdown("""
 * [Chemin de l'Armurié, Colomiers](https://www.google.com/maps/place/Chemin+de+l'Armurié,+31770+Colomiers/)
 * proche gare des Ramassiers
 * Bus  L3 / 21 / 25 / 32 / 63
-* Piste cyclable arrive devant le local
+* Piste cyclable
 * 4 places voiture + parking vélo
 * Espace détente extérieur 
 * proche commerces, restaurants, salles de sport """)
