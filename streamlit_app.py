@@ -6,13 +6,14 @@ import os
 st.set_page_config(page_title="Canary Fab", page_icon="	:factory:", layout="centered")
 
 
-# Add custom CSS to hide the GitHub icon
-#hide_github_icon = """
-#GithubIcon {
-#  visibility: hidden;
-#}
-#"""
-#st.markdown(hide_github_icon, unsafe_allow_html=True)
+#hide the menu
+st.markdown('''
+<style>
+.stApp [data-testid="stToolbar"]{
+    display:none;
+}
+</style>
+''', unsafe_allow_html=True)
 
 
 #construct the path of the img folder
